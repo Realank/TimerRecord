@@ -16,7 +16,28 @@
 		8C6AEC341E84066B00439B9E /* TimerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C6AEC331E84066B00439B9E /* TimerTests.m */; };
 		8C6AEC3F1E84066B00439B9E /* TimerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C6AEC3E1E84066B00439B9E /* TimerUITests.m */; };
 		8C83CD351E84B8880041FE56 /* MZTimerLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C83CD341E84B8880041FE56 /* MZTimerLabel.m */; };
-		8CCBEE1C1E849AAF00DD78E3 /* jiuan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 8CCBEE1B1E849AAF00DD78E3 /* jiuan.gpx */; };
+		8C83CD4B1E84C0590041FE56 /* MW101.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD371E84C0590041FE56 /* MW101.mp3 */; };
+		8C83CD4C1E84C0590041FE56 /* MW102.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD381E84C0590041FE56 /* MW102.mp3 */; };
+		8C83CD4D1E84C0590041FE56 /* MW103.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD391E84C0590041FE56 /* MW103.mp3 */; };
+		8C83CD4E1E84C0590041FE56 /* MW104.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD3A1E84C0590041FE56 /* MW104.mp3 */; };
+		8C83CD4F1E84C0590041FE56 /* MW105.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD3B1E84C0590041FE56 /* MW105.mp3 */; };
+		8C83CD501E84C0590041FE56 /* MW106.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD3C1E84C0590041FE56 /* MW106.mp3 */; };
+		8C83CD511E84C0590041FE56 /* MW107.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD3D1E84C0590041FE56 /* MW107.mp3 */; };
+		8C83CD521E84C0590041FE56 /* MW108.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD3E1E84C0590041FE56 /* MW108.mp3 */; };
+		8C83CD531E84C0590041FE56 /* MW109.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD3F1E84C0590041FE56 /* MW109.mp3 */; };
+		8C83CD541E84C0590041FE56 /* MW110.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD401E84C0590041FE56 /* MW110.mp3 */; };
+		8C83CD551E84C0590041FE56 /* MW111.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD411E84C0590041FE56 /* MW111.mp3 */; };
+		8C83CD561E84C0590041FE56 /* MW112.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD421E84C0590041FE56 /* MW112.mp3 */; };
+		8C83CD571E84C0590041FE56 /* MW113.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD431E84C0590041FE56 /* MW113.mp3 */; };
+		8C83CD581E84C0590041FE56 /* MW114.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD441E84C0590041FE56 /* MW114.mp3 */; };
+		8C83CD591E84C0590041FE56 /* MW115.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD451E84C0590041FE56 /* MW115.mp3 */; };
+		8C83CD5A1E84C0590041FE56 /* MW116.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD461E84C0590041FE56 /* MW116.mp3 */; };
+		8C83CD5B1E84C0590041FE56 /* MW117.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD471E84C0590041FE56 /* MW117.mp3 */; };
+		8C83CD5C1E84C0590041FE56 /* MW118.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD481E84C0590041FE56 /* MW118.mp3 */; };
+		8C83CD5D1E84C0590041FE56 /* MW119.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD491E84C0590041FE56 /* MW119.mp3 */; };
+		8C83CD5E1E84C0590041FE56 /* MW120.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C83CD4A1E84C0590041FE56 /* MW120.mp3 */; };
+		8C83CD611E84C4B80041FE56 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C83CD601E84C4B80041FE56 /* libsqlite3.tbd */; };
+		8C83CD641E84C4E20041FE56 /* PersistWords.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C83CD631E84C4E20041FE56 /* PersistWords.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +76,29 @@
 		8C6AEC401E84066B00439B9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C83CD331E84B8880041FE56 /* MZTimerLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZTimerLabel.h; sourceTree = "<group>"; };
 		8C83CD341E84B8880041FE56 /* MZTimerLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZTimerLabel.m; sourceTree = "<group>"; };
-		8CCBEE1B1E849AAF00DD78E3 /* jiuan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = jiuan.gpx; sourceTree = "<group>"; };
+		8C83CD371E84C0590041FE56 /* MW101.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW101.mp3; sourceTree = "<group>"; };
+		8C83CD381E84C0590041FE56 /* MW102.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW102.mp3; sourceTree = "<group>"; };
+		8C83CD391E84C0590041FE56 /* MW103.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW103.mp3; sourceTree = "<group>"; };
+		8C83CD3A1E84C0590041FE56 /* MW104.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW104.mp3; sourceTree = "<group>"; };
+		8C83CD3B1E84C0590041FE56 /* MW105.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW105.mp3; sourceTree = "<group>"; };
+		8C83CD3C1E84C0590041FE56 /* MW106.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW106.mp3; sourceTree = "<group>"; };
+		8C83CD3D1E84C0590041FE56 /* MW107.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW107.mp3; sourceTree = "<group>"; };
+		8C83CD3E1E84C0590041FE56 /* MW108.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW108.mp3; sourceTree = "<group>"; };
+		8C83CD3F1E84C0590041FE56 /* MW109.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW109.mp3; sourceTree = "<group>"; };
+		8C83CD401E84C0590041FE56 /* MW110.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW110.mp3; sourceTree = "<group>"; };
+		8C83CD411E84C0590041FE56 /* MW111.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW111.mp3; sourceTree = "<group>"; };
+		8C83CD421E84C0590041FE56 /* MW112.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW112.mp3; sourceTree = "<group>"; };
+		8C83CD431E84C0590041FE56 /* MW113.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW113.mp3; sourceTree = "<group>"; };
+		8C83CD441E84C0590041FE56 /* MW114.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW114.mp3; sourceTree = "<group>"; };
+		8C83CD451E84C0590041FE56 /* MW115.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW115.mp3; sourceTree = "<group>"; };
+		8C83CD461E84C0590041FE56 /* MW116.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW116.mp3; sourceTree = "<group>"; };
+		8C83CD471E84C0590041FE56 /* MW117.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW117.mp3; sourceTree = "<group>"; };
+		8C83CD481E84C0590041FE56 /* MW118.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW118.mp3; sourceTree = "<group>"; };
+		8C83CD491E84C0590041FE56 /* MW119.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW119.mp3; sourceTree = "<group>"; };
+		8C83CD4A1E84C0590041FE56 /* MW120.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MW120.mp3; sourceTree = "<group>"; };
+		8C83CD601E84C4B80041FE56 /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		8C83CD621E84C4E20041FE56 /* PersistWords.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersistWords.h; sourceTree = "<group>"; };
+		8C83CD631E84C4E20041FE56 /* PersistWords.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersistWords.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +106,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C83CD611E84C4B80041FE56 /* libsqlite3.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,6 +134,7 @@
 				8C6AEC321E84066B00439B9E /* TimerTests */,
 				8C6AEC3D1E84066B00439B9E /* TimerUITests */,
 				8C6AEC171E84066B00439B9E /* Products */,
+				8C83CD5F1E84C4B80041FE56 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -106,7 +151,6 @@
 		8C6AEC181E84066B00439B9E /* Timer */ = {
 			isa = PBXGroup;
 			children = (
-				8CCBEE1B1E849AAF00DD78E3 /* jiuan.gpx */,
 				8C6AEC1C1E84066B00439B9E /* AppDelegate.h */,
 				8C6AEC1D1E84066B00439B9E /* AppDelegate.m */,
 				8C6AEC1F1E84066B00439B9E /* ViewController.h */,
@@ -114,6 +158,9 @@
 				8C6AEC221E84066B00439B9E /* Main.storyboard */,
 				8C83CD331E84B8880041FE56 /* MZTimerLabel.h */,
 				8C83CD341E84B8880041FE56 /* MZTimerLabel.m */,
+				8C83CD621E84C4E20041FE56 /* PersistWords.h */,
+				8C83CD631E84C4E20041FE56 /* PersistWords.m */,
+				8C83CD361E84C0590041FE56 /* audio */,
 				8C6AEC251E84066B00439B9E /* Assets.xcassets */,
 				8C6AEC271E84066B00439B9E /* LaunchScreen.storyboard */,
 				8C6AEC2A1E84066B00439B9E /* Info.plist */,
@@ -146,6 +193,41 @@
 				8C6AEC401E84066B00439B9E /* Info.plist */,
 			);
 			path = TimerUITests;
+			sourceTree = "<group>";
+		};
+		8C83CD361E84C0590041FE56 /* audio */ = {
+			isa = PBXGroup;
+			children = (
+				8C83CD371E84C0590041FE56 /* MW101.mp3 */,
+				8C83CD381E84C0590041FE56 /* MW102.mp3 */,
+				8C83CD391E84C0590041FE56 /* MW103.mp3 */,
+				8C83CD3A1E84C0590041FE56 /* MW104.mp3 */,
+				8C83CD3B1E84C0590041FE56 /* MW105.mp3 */,
+				8C83CD3C1E84C0590041FE56 /* MW106.mp3 */,
+				8C83CD3D1E84C0590041FE56 /* MW107.mp3 */,
+				8C83CD3E1E84C0590041FE56 /* MW108.mp3 */,
+				8C83CD3F1E84C0590041FE56 /* MW109.mp3 */,
+				8C83CD401E84C0590041FE56 /* MW110.mp3 */,
+				8C83CD411E84C0590041FE56 /* MW111.mp3 */,
+				8C83CD421E84C0590041FE56 /* MW112.mp3 */,
+				8C83CD431E84C0590041FE56 /* MW113.mp3 */,
+				8C83CD441E84C0590041FE56 /* MW114.mp3 */,
+				8C83CD451E84C0590041FE56 /* MW115.mp3 */,
+				8C83CD461E84C0590041FE56 /* MW116.mp3 */,
+				8C83CD471E84C0590041FE56 /* MW117.mp3 */,
+				8C83CD481E84C0590041FE56 /* MW118.mp3 */,
+				8C83CD491E84C0590041FE56 /* MW119.mp3 */,
+				8C83CD4A1E84C0590041FE56 /* MW120.mp3 */,
+			);
+			path = audio;
+			sourceTree = "<group>";
+		};
+		8C83CD5F1E84C4B80041FE56 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8C83CD601E84C4B80041FE56 /* libsqlite3.tbd */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,9 +339,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C83CD571E84C0590041FE56 /* MW113.mp3 in Resources */,
 				8C6AEC291E84066B00439B9E /* LaunchScreen.storyboard in Resources */,
-				8CCBEE1C1E849AAF00DD78E3 /* jiuan.gpx in Resources */,
+				8C83CD561E84C0590041FE56 /* MW112.mp3 in Resources */,
+				8C83CD531E84C0590041FE56 /* MW109.mp3 in Resources */,
+				8C83CD5C1E84C0590041FE56 /* MW118.mp3 in Resources */,
+				8C83CD581E84C0590041FE56 /* MW114.mp3 in Resources */,
+				8C83CD511E84C0590041FE56 /* MW107.mp3 in Resources */,
+				8C83CD541E84C0590041FE56 /* MW110.mp3 in Resources */,
+				8C83CD5D1E84C0590041FE56 /* MW119.mp3 in Resources */,
+				8C83CD551E84C0590041FE56 /* MW111.mp3 in Resources */,
+				8C83CD4F1E84C0590041FE56 /* MW105.mp3 in Resources */,
+				8C83CD5A1E84C0590041FE56 /* MW116.mp3 in Resources */,
+				8C83CD4E1E84C0590041FE56 /* MW104.mp3 in Resources */,
+				8C83CD521E84C0590041FE56 /* MW108.mp3 in Resources */,
+				8C83CD4D1E84C0590041FE56 /* MW103.mp3 in Resources */,
+				8C83CD4C1E84C0590041FE56 /* MW102.mp3 in Resources */,
+				8C83CD4B1E84C0590041FE56 /* MW101.mp3 in Resources */,
 				8C6AEC261E84066B00439B9E /* Assets.xcassets in Resources */,
+				8C83CD5B1E84C0590041FE56 /* MW117.mp3 in Resources */,
+				8C83CD501E84C0590041FE56 /* MW106.mp3 in Resources */,
+				8C83CD5E1E84C0590041FE56 /* MW120.mp3 in Resources */,
+				8C83CD591E84C0590041FE56 /* MW115.mp3 in Resources */,
 				8C6AEC241E84066B00439B9E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,6 +388,7 @@
 			files = (
 				8C6AEC211E84066B00439B9E /* ViewController.m in Sources */,
 				8C83CD351E84B8880041FE56 /* MZTimerLabel.m in Sources */,
+				8C83CD641E84C4E20041FE56 /* PersistWords.m in Sources */,
 				8C6AEC1E1E84066B00439B9E /* AppDelegate.m in Sources */,
 				8C6AEC1B1E84066B00439B9E /* main.m in Sources */,
 			);

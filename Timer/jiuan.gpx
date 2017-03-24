@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+http://www.garmin.com/xmlschemas/GpxExtensions/v3
+http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+version="1.1"
+creator="gpx-poi.com">
+   <wpt lat="39.118000" lon="117.130000">
+      <time>2017-03-24T00:07:10Z</time>
+      <name>Jiuan</name>
+      <extensions>
+         <gpxx:WaypointExtension>
+            <gpxx:Proximity>1</gpxx:Proximity>
+            <gpxx:Address>
+               <gpxx:StreetAddress>Jinping Road</gpxx:StreetAddress>
+               <gpxx:City>Tianjin</gpxx:City>
+               <gpxx:State>Tianjin</gpxx:State>
+               <gpxx:Country>China</gpxx:Country>
+               <gpxx:PostalCode>300000</gpxx:PostalCode>
+            </gpxx:Address>
+         </gpxx:WaypointExtension>
+      </extensions>
+   </wpt>
+</gpx>
